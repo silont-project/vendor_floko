@@ -46,7 +46,8 @@ PRODUCT_PACKAGES += \
     ThemePicker \
     OmniJaws \
     OmniStyle \
-    OmniSwitch
+    OmniSwitch \
+    Updater
 
 # Fonts
 PRODUCT_PACKAGES += \
